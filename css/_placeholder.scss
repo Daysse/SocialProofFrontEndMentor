@@ -1,0 +1,23 @@
+%ratings{
+    .guru{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 500px;
+        height: 60px;
+        border-radius: 10px;
+        word-spacing: 3px;
+        background: $Light-Grayish-magenta;
+        font-weight: bold;
+        color: $Very-Dark-Magenta;
+        p{
+            margin-left: 50px;
+            letter-spacing: 1px;
+        }
+        img{
+            height: 18px;
+            
+            
+        }
+    }
+}
